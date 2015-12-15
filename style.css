@@ -3,7 +3,7 @@ h1 {
     font-size: 48px;
     line-height: 1.5;
     color: red;
-}
+  text-align: center;
 p {
     font-family:'Amatic SC', cursive;
     font-size:24px;
@@ -12,5 +12,5 @@ p {
     
 }
 img {
-float:right;
+    float: right;
 }
