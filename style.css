@@ -4,21 +4,22 @@ h1 {
     line-height: 1.5;
     color: red;
   text-align: center;
-p {
+}
+p{
     font-family:'Amatic SC', cursive;
     font-size:28px;
     line-height:2;
     color:red;
-    font-weight: 900;
-    
 }
+
 img {
 
 float:right;
 }
+
 h2{
     font-family:'Amatic SC', cursive;
     font-size:34px;
     line-height:2;
-    color:Black;
+    color:red;
 }
